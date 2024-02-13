@@ -1,1 +1,1 @@
-# SQL Week_1_Challenge
+# SQL_Week_1_Challenge
